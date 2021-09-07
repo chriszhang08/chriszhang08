@@ -1,7 +1,5 @@
 ### Hi there, I'm Chris 👋
 
-**chriszhang08/chriszhang08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on ML Music, a machine learning website that can recommend new music based on user input.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on environmental or sustainability projects.
